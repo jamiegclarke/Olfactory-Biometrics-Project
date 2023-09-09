@@ -18,13 +18,13 @@ Take note of the min and range of your dataset here. Then take the preprocessed 
 
 Hardware Needed:
 
-[Wio Terminal](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102991299/11689373)  
-[Multichannel Gas Sensor V2](https://wiki.seeedstudio.com/Grove-Multichannel-Gas-Sensor-V2/)  
-[Temperature, Pressure](https://wiki.seeedstudio.com/Grove-Temperature_Humidity_Pressure_Gas_Sensor_BME680/)  
-[VOC and CO2 Gas Sensor](https://wiki.seeedstudio.com/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/)  
-[Goove Smart Bulb](https://uk.govee.com/products/wi-fi-led-bulb)  
-SD card  
-Appropriate connection wires
+* [Wio Terminal](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102991299/11689373)  
+* [Multichannel Gas Sensor V2](https://wiki.seeedstudio.com/Grove-Multichannel-Gas-Sensor-V2/)  
+* [Temperature, Pressure](https://wiki.seeedstudio.com/Grove-Temperature_Humidity_Pressure_Gas_Sensor_BME680/)  
+* [VOC and CO2 Gas Sensor](https://wiki.seeedstudio.com/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/)  
+* [Goove Smart Bulb](https://uk.govee.com/products/wi-fi-led-bulb)  
+* SD card  
+* Appropriate connection wires
 
 You should let the gas sensors preheat for >24 hours, as less than this they may not be as accurate. 
 
