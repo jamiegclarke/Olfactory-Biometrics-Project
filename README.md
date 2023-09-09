@@ -2,6 +2,8 @@
 
 AI nose based on [Benjamin Cabé's artificial nose project](https://github.com/kartben/artificial-nose) and also based on [Shawn Hymel's Interpretation](https://github.com/ShawnHymel/ai-nose)
 
+I created an AI electric nose using Seeed Studio sensors, a Wio Terminal and Edge Impulse neural network classification. The purpose of this nose is to act as a security device to allow access control to sensitive buildings based on the user's smell. This project is grounded in the belief that each person has a unique and individual primary odour, much like a fingerprint. I made this nose capable of checking a database that includes a list of individuals with their authenticated status, compares it to their intrinsic smell and audits their access accordingly. I also made the nose an IoT device. In this example, it can change the colour of a smartbulb based on ther user's authentication, but in the future I hope to extend this feature to physical doors or role based systems.
+
 # Instructions
 
 Before you start live inference you will need to collect your own data. To do so please upload the data collection Ardruino script to the Wio Terminal, close down the program and then run the associates data collection python script. 
